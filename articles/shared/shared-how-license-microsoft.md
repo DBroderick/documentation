@@ -164,7 +164,7 @@ To use your existing Microsoft licensing or use licences billed by us on UKCloud
 
 4. Click **New Service Request**.
 
-5. Select **Generic Service Request**.
+5. Select **Other Service Request**.
 
 6. Fill in the Service Request form, making sure to provide the following information in the **Additional Details** field:
 
